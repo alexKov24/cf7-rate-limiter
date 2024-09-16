@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: CF7 Rate Limiter
- * Plugin URI: https://github.com/alexKov24/
+ * Plugin URI: https://github.com/alexKov24/cf7-rate-limiter/tree/main
  * Description: Adds rate limiting functionality to Contact Form 7 submissions.
  * Version: 1.0
  * Author: Alex Kovalev
