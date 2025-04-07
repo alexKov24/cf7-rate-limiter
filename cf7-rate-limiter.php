@@ -15,6 +15,11 @@ if (!defined('WPINC')) {
     die;
 }
 
+// Include plugin.php to use is_plugin_active()
+if (!function_exists('is_plugin_active')) {
+    include_once(ABSPATH . 'wp-admin/includes/plugin.php');
+}
+
 class CF7_Rate_Limiter
 {
     private $options;
